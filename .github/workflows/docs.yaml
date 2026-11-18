@@ -1,0 +1,78 @@
+# build-docs: genera la documentacion (Doxygen) de JsonParserByLeo y la sube a este repo.
+# Se dispara desde el workflow on_tag de Forgejo (repository_dispatch `build-docs`, con client_payload.sha y .version) o a mano (workflow_dispatch).
+#   1. Clona JsonParserByLeo (en el commit pedido; sin commit usa la rama principal)
+#   2. Instala Doxygen y Graphviz (el Doxyfile usa HAVE_DOT)
+#   3. Clona doxygen-awesome-css como subcarpeta del codigo (el Doxyfile la referencia con una ruta relativa)
+#   4. Ejecuta Doxygen
+#   5. Copia el HTML a la carpeta de publicacion (PAGES_DIR) y sube los cambios
+# GitHub Pages: configurar "Deploy from a branch" con la rama main y la carpeta /docs (o cambiar PAGES_DIR a `.` para la raiz).
+name: build-docs
+
+on:
+  repository_dispatch:
+    types: [build-docs]
+  workflow_dispatch:
+    inputs:
+      sha:
+        description: 'Commit de JsonParserByLeo (vacio = rama principal)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-docs
+  cancel-in-progress: true
+
+env:
+  SOURCE_URL: https://forge.mql5.io/nique_372/JsonParserByLeo.git
+  AWESOME_URL: https://github.com/jothepro/doxygen-awesome-css.git
+  PAGES_DIR: docs
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (repo de docs)
+        uses: actions/checkout@v4
+
+      - name: Clonar JsonParserByLeo
+        env:
+          SHA: ${{ github.event.client_payload.sha || github.event.inputs.sha }}
+        run: |
+          git clone "$SOURCE_URL" "$RUNNER_TEMP/src"
+          if [ -n "$SHA" ]; then git -C "$RUNNER_TEMP/src" checkout "$SHA"; fi
+          echo "Fuente: $(git -C "$RUNNER_TEMP/src" rev-parse --short HEAD)"
+
+      - name: Instalar Doxygen y Graphviz
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y doxygen graphviz
+
+      - name: Doxygen Awesome CSS
+        run: git clone --depth 1 "$AWESOME_URL" "$RUNNER_TEMP/src/doxygen-awesome-css"
+
+      - name: Generar documentacion
+        working-directory: ${{ runner.temp }}/src
+        run: |
+          doxygen --version
+          doxygen Doxyfile
+
+      - name: Publicar
+        env:
+          VERSION: ${{ github.event.client_payload.version }}
+        run: |
+          rm -rf "$PAGES_DIR"
+          mkdir -p "$PAGES_DIR"
+          cp -r "$RUNNER_TEMP/src/docs/html/." "$PAGES_DIR/"
+          touch "$PAGES_DIR/.nojekyll"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A "$PAGES_DIR"
+          if git diff --cached --quiet; then
+            echo "Sin cambios en la documentacion"
+          else
+            git commit -m "docs: JsonParserByLeo ${VERSION:-main} ($(git -C "$RUNNER_TEMP/src" rev-parse --short HEAD))"
+            git push
+          fi
