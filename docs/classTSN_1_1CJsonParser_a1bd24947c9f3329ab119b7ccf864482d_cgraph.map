@@ -1,0 +1,5 @@
+<map id="TSN::CJsonParser::SerializeToDom" name="TSN::CJsonParser::SerializeToDom">
+<area shape="rect" id="Node000001" title="Vuelca un objeto o array de la cinta a un DOM mutable (lo llama CNodeSFLBase::ToDom / CJsonNode::ToDo..." alt="" coords="5,5,201,50"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonParser.html#aa418eb4ebcfadee6373db12577c69d20" title="Slots de la cinta que ocupa el nodo en idx SIN contar sus hijos: ARR y OBJ devuelven 2 (su header)." alt="" coords="249,14,469,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,25,236,27,230,28,201,30"/>
+</map>

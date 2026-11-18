@@ -1,0 +1,5 @@
+<map id="TSN::CJsonBuilderBase::Clear" name="TSN::CJsonBuilderBase::Clear">
+<area shape="rect" id="Node000001" title="Vacia el builder para reutilizarlo (m_pos = 0 y nivel raiz). NO libera el buffer." alt="" coords="223,5,392,50"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonBuilderBase.html#a4c8dc287cc59e7b9d73acaf7e566c06e" title="Entrega el json escrito SIN copiarlo: intercambia el buffer con dst y deja el builder vacio listo par..." alt="" coords="5,5,175,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,28,175,30,175,25,210,27"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TSN::CJsonBuilder::ValSWV" name="TSN::CJsonBuilder::ValSWV">
+<area shape="rect" id="Node000001" title="String SIN escape (&quot;valor&quot;): se escribe como UTF&#45;8 tal cual, asi que acepta no ASCII pero NO comillas..." alt="" coords="5,5,151,50"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonBuilder.html#af5ec643b3f79ca8ab604202cac235f2f" title=" " alt="" coords="199,5,344,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,25,186,27,180,28,151,30"/>
+<area shape="rect" id="Node000003" href="$classTSN_1_1CJsonBuilderBase.html#a82118bc56a61eff652a8ae6a51127afc" title=" " alt="" coords="392,5,561,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,25,379,28,373,28,344,30"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TSN::CJsonParser::CorrectPadding" name="TSN::CJsonParser::CorrectPadding">
+<area shape="rect" id="Node000001" title="Corrige el padding de raw agregandole mas bytes y centinelas al final." alt="" coords="258,5,444,50"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonParser.html#a107bea9f5fdf601c68ed6e0cb6367e1f" title="AutoParseo en base a una extension de archivo valida (TSN_SLF_EXT_TYPE_FILE o TSN_SLF_EXT_TYPE_CACHE_..." alt="" coords="5,5,210,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,28,210,30,210,25,244,27"/>
+</map>

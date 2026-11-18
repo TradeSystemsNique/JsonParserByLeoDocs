@@ -1,0 +1,9 @@
+<map id="TSN::CJsonBuilder::Key" name="TSN::CJsonBuilder::Key">
+<area shape="rect" id="Node000001" title="Clave de objeto CON escape (&quot;clave&quot;:). El siguiente valor no lleva coma antes." alt="" coords="5,44,175,72"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonBuilder.html#af5ec643b3f79ca8ab604202cac235f2f" title=" " alt="" coords="246,5,392,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,44,233,39,228,40,175,50"/>
+<area shape="rect" id="Node000004" href="$classTSN_1_1CJsonEscape.html#a46440d48ef3c8332fe932a9f5b1bd42f" title=" " alt="" coords="223,74,415,102"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,67,210,73,204,73,175,72"/>
+<area shape="rect" id="Node000003" href="$classTSN_1_1CJsonBuilderBase.html#a82118bc56a61eff652a8ae6a51127afc" title=" " alt="" coords="463,5,632,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,25,450,27,445,28,392,30"/>
+</map>

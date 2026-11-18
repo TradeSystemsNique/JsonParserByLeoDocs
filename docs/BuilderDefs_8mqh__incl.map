@@ -1,0 +1,7 @@
+<map id="Src/JsonBuilder/BuilderDefs.mqh" name="Src/JsonBuilder/BuilderDefs.mqh">
+<area shape="rect" id="Node000001" title="Base de los builders de json (CJsonBuilderBase): buffer de bytes, pila de comas, valores simples y sn..." alt="" coords="95,5,326,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,206,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,33,138,74,135,70,189,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="230,81,402,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,31,288,72,283,72,229,36"/>
+</map>

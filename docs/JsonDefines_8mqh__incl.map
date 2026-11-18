@@ -1,0 +1,17 @@
+<map id="Src/JsonCore/JsonDefines.mqh" name="Src/JsonCore/JsonDefines.mqh">
+<area shape="rect" id="Node000001" title="Tipos de nodo, tokens, banderas de estado, errores y tabla de caracteres del parser JSON." alt="" coords="513,5,728,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,137,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,31,347,52,152,83,151,78,346,47,515,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="161,81,333,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="563,33,349,83,348,77,558,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="358,90,520,117"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="594,33,482,85,481,80,589,34"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="544,90,697,117"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="622,32,622,76,618,72,618,35"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="722,90,882,117"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="650,31,762,83,756,83,649,36"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="906,90,1065,117"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="680,31,894,78,916,86,911,85,893,84,680,36"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1089,90,1248,117"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="729,29,893,50,1077,78,1102,86,1097,85,1076,84,892,55,728,35"/>
+</map>

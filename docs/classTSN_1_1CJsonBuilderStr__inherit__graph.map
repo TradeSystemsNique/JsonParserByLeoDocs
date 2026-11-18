@@ -1,0 +1,5 @@
+<map id="TSN::CJsonBuilderStr" name="TSN::CJsonBuilderStr">
+<area shape="rect" id="Node000001" title="Builder de un json &quot;para meter dentro de un string json&quot;: las comillas de claves y strings salen esca..." alt="" coords="12,81,168,109"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonBuilderBase.html" title="Base de los builders: escribe json directo, como bytes UTF&#45;8, a un buffer (sin DOM ni strings interme..." alt="" coords="5,5,175,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,47,92,82,88,80,88,51"/>
+</map>

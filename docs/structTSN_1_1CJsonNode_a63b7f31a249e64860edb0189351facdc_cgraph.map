@@ -1,0 +1,9 @@
+<map id="TSN::CJsonNode::ToMqlParam" name="TSN::CJsonNode::ToMqlParam">
+<area shape="rect" id="Node000001" title="Convierte el nodo al tipo MqlParam de MQL5." alt="" coords="5,57,218,85"/>
+<area shape="rect" id="Node000002" href="$structTSN_1_1CJsonNode.html#a483da51b3958de1fb19bd08f23da3bd8" title="Convierte el nodo a double." alt="" coords="266,5,459,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,54,279,36,275,38,183,59"/>
+<area shape="rect" id="Node000003" href="$structTSN_1_1CJsonNode.html#aa6cca71c577a25bf28afecb7b34343d4" title="Convierte el nodo a long." alt="" coords="280,57,444,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,69,267,71,262,72,218,74"/>
+<area shape="rect" id="Node000004" href="$structTSN_1_1CJsonNode.html#a252eab894e695c8ae342da0d668bbefd" title="Materializa un nodo &quot;simple&quot; al tipo string." alt="" coords="270,109,455,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,83,280,105,274,106,182,88"/>
+</map>

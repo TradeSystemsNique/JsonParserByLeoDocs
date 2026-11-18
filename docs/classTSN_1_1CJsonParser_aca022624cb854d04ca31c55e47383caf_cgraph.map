@@ -1,0 +1,5 @@
+<map id="TSN::CJsonParser::NodeHashing" name="TSN::CJsonParser::NodeHashing">
+<area shape="rect" id="Node000001" title="Construye la tabla de hash perfecto de un objeto (JIT). Interno: lo llama CNodeSFLBase::operator[] / ..." alt="" coords="5,5,232,33"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonParser.html#ad0fde2a72a20049ce29366c276d6875e" title="Slots de la cinta que ocupa el nodo en idx INCLUYENDO todos sus hijos (ARR y OBJ: el step guardado en..." alt="" coords="280,5,471,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,17,266,19,261,19,232,22"/>
+</map>

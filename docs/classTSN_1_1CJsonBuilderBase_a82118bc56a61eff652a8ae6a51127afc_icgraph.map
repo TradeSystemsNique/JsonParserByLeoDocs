@@ -1,0 +1,83 @@
+<map id="TSN::CJsonBuilderBase::CJsonBuilderBase" name="TSN::CJsonBuilderBase::CJsonBuilderBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="701,1326,871,1371"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonBuilderBase.html#a95a8a2c8bfa1e6ca8d98713e15984c9b" title="Abre un array [." alt="" coords="456,333,652,361"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="782,1310,780,1116,774,981,764,835,748,690,725,557,710,499,693,448,673,406,651,374,641,364,639,359,655,371,678,403,698,446,715,497,730,556,753,689,769,834,780,980,785,1116,788,1312"/>
+<area shape="rect" id="Node000003" href="$classTSN_1_1CJsonBuilder.html#af5ec643b3f79ca8ab604202cac235f2f" title=" " alt="" coords="481,385,626,430"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="773,1311,559,432,563,428,778,1311"/>
+<area shape="rect" id="Node000016" href="$classTSN_1_1CJsonBuilderStr.html#a3504cbd3efb2e9622dc53fe072f8b453" title=" " alt="" coords="476,902,631,947"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="780,1309,771,1237,750,1144,733,1095,712,1046,685,1001,652,961,632,946,631,941,655,957,689,998,716,1044,738,1093,755,1142,776,1237,785,1311"/>
+<area shape="rect" id="Node000025" href="$classTSN_1_1CJsonBuilderBase.html#aeae78b09ad84466c0f79029a9eb6eda7" title="Cierra el array ]." alt="" coords="469,972,638,1016"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="777,1310,764,1250,741,1175,724,1136,704,1098,680,1062,652,1030,638,1019,637,1014,655,1027,684,1059,709,1095,729,1134,746,1173,769,1249,782,1312"/>
+<area shape="rect" id="Node000026" href="$classTSN_1_1CJsonBuilderBase.html#a7d620fd4aed3efb73750aadccf619ca2" title="Cierra el objeto } (baja un nivel; si ya estaba en la raiz no baja)." alt="" coords="469,1041,638,1086"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="772,1310,756,1264,730,1207,696,1149,675,1123,652,1100,636,1089,636,1083,655,1096,679,1120,700,1146,735,1204,761,1262,777,1312"/>
+<area shape="rect" id="Node000027" href="$classTSN_1_1CJsonBuilderBase.html#aaab426dfcc401647caba0ddee7c8ab5f" title="null" alt="" coords="469,1110,638,1155"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="764,1312,719,1241,688,1202,652,1169,634,1158,634,1153,655,1165,692,1199,724,1237,770,1313"/>
+<area shape="rect" id="Node000028" href="$classTSN_1_1CJsonBuilderBase.html#a52c4e6891bc30adc4fd96797c7ad40bd" title="Abre un objeto { (pone la coma que haga falta antes y sube un nivel)." alt="" coords="454,1179,653,1206"/>
+<area shape="poly" id="edge29_Node000001_Node000028" title=" " alt="" coords="756,1314,711,1267,683,1242,652,1221,626,1209,625,1204,655,1217,686,1238,714,1263,761,1314"/>
+<area shape="rect" id="Node000029" href="$classTSN_1_1CJsonBuilder.html#a868818eb112c49862a3470933895343a" title="true / false" alt="" coords="471,1231,636,1258"/>
+<area shape="poly" id="edge30_Node000001_Node000029" title=" " alt="" coords="736,1317,697,1295,652,1274,619,1262,618,1256,654,1269,699,1291,741,1317"/>
+<area shape="rect" id="Node000030" href="$classTSN_1_1CJsonBuilder.html#abc4f2d28cdb44a050b653acc5b09e7a1" title="Real con digits decimales (por defecto 8)." alt="" coords="471,1283,636,1310"/>
+<area shape="poly" id="edge31_Node000001_Node000030" title=" " alt="" coords="684,1327,619,1314,618,1308,689,1325"/>
+<area shape="rect" id="Node000031" href="$classTSN_1_1CJsonBuilder.html#af6797bafbe86a481da6f563abff816c8" title=" " alt="" coords="471,1335,636,1362"/>
+<area shape="poly" id="edge32_Node000001_Node000031" title=" " alt="" coords="684,1349,638,1351,636,1346,689,1348"/>
+<area shape="rect" id="Node000032" href="$classTSN_1_1CJsonBuilder.html#a6f6859559a38c0cd2644895eb505e3aa" title=" " alt="" coords="471,1387,636,1414"/>
+<area shape="poly" id="edge33_Node000001_Node000032" title=" " alt="" coords="684,1372,620,1389,618,1384,689,1370"/>
+<area shape="rect" id="Node000033" href="$classTSN_1_1CJsonBuilder.html#a8dea6153ea08f343a86d3ed2c4f71fbd" title=" " alt="" coords="471,1439,636,1466"/>
+<area shape="poly" id="edge34_Node000001_Node000033" title=" " alt="" coords="736,1381,699,1406,654,1428,619,1440,617,1436,652,1423,697,1402,741,1378"/>
+<area shape="rect" id="Node000034" href="$classTSN_1_1CJsonBuilder.html#a5d050a3f6b41f329f5edbd48ceb3581d" title=" " alt="" coords="471,1491,636,1518"/>
+<area shape="poly" id="edge35_Node000001_Node000034" title=" " alt="" coords="760,1381,714,1434,686,1459,655,1480,627,1493,624,1488,652,1476,683,1455,711,1430,756,1385"/>
+<area shape="rect" id="Node000035" href="$classTSN_1_1CJsonBuilderBase.html#a868818eb112c49862a3470933895343a" title="true / false" alt="" coords="455,1543,652,1570"/>
+<area shape="poly" id="edge36_Node000001_Node000035" title=" " alt="" coords="770,1383,751,1421,725,1460,693,1499,655,1532,631,1544,629,1540,652,1528,689,1495,721,1457,746,1418,766,1387"/>
+<area shape="rect" id="Node000036" href="$classTSN_1_1CJsonBuilderBase.html#abc4f2d28cdb44a050b653acc5b09e7a1" title="Real con digits decimales (por defecto 8)." alt="" coords="455,1595,652,1622"/>
+<area shape="poly" id="edge37_Node000001_Node000036" title=" " alt="" coords="776,1383,760,1432,734,1485,700,1538,679,1563,655,1584,633,1597,631,1592,652,1580,675,1559,695,1535,730,1483,755,1430,772,1387"/>
+<area shape="rect" id="Node000037" href="$classTSN_1_1CJsonBuilderBase.html#af6797bafbe86a481da6f563abff816c8" title=" " alt="" coords="455,1647,652,1674"/>
+<area shape="poly" id="edge38_Node000001_Node000037" title=" " alt="" coords="780,1384,766,1442,742,1510,706,1578,682,1609,655,1636,635,1648,633,1644,652,1632,678,1605,701,1575,737,1507,761,1441,776,1388"/>
+<area shape="rect" id="Node000038" href="$classTSN_1_1CJsonBuilderBase.html#a6f6859559a38c0cd2644895eb505e3aa" title=" " alt="" coords="455,1699,652,1726"/>
+<area shape="poly" id="edge39_Node000001_Node000038" title=" " alt="" coords="783,1384,772,1452,750,1533,733,1575,712,1616,686,1654,655,1688,636,1701,634,1696,652,1684,682,1651,708,1614,728,1573,745,1531,767,1451,779,1389"/>
+<area shape="rect" id="Node000039" href="$classTSN_1_1CJsonBuilderBase.html#a8dea6153ea08f343a86d3ed2c4f71fbd" title=" " alt="" coords="455,1751,652,1778"/>
+<area shape="poly" id="edge40_Node000001_Node000039" title=" " alt="" coords="785,1384,778,1461,757,1556,740,1606,718,1655,690,1700,655,1740,636,1753,634,1748,652,1736,686,1697,714,1652,735,1604,752,1554,773,1460,782,1388"/>
+<area shape="rect" id="Node000040" href="$classTSN_1_1CJsonBuilderBase.html#a5d050a3f6b41f329f5edbd48ceb3581d" title=" " alt="" coords="455,1803,652,1830"/>
+<area shape="poly" id="edge41_Node000001_Node000040" title=" " alt="" coords="787,1384,783,1470,776,1522,764,1579,747,1636,724,1693,694,1745,655,1792,637,1805,635,1800,652,1788,690,1742,720,1690,742,1635,759,1577,770,1521,777,1469,783,1389"/>
+<area shape="rect" id="Node000004" href="$classTSN_1_1CJsonBuilder.html#aaa3d76745f00cf7fa5d7c9977ddd14d9" title="Clave de objeto CON escape (&quot;clave&quot;:). El siguiente valor no lleva coma antes." alt="" coords="228,5,397,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="465,386,452,374,437,353,427,331,418,289,421,247,429,207,437,166,439,127,430,87,419,67,404,46,394,36,392,31,408,43,424,64,435,85,444,126,442,167,434,208,426,248,423,289,432,329,441,350,456,371,470,384"/>
+<area shape="rect" id="Node000005" href="$classTSN_1_1CJsonBuilder.html#ab4f02322058471a0bdf197ea4d4ae011" title="Clave SIN validacion: solo ASCII puro sin caracteres de control ni comillas ni barras (tipico en clav..." alt="" coords="240,57,385,102"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="465,385,452,374,431,341,422,308,423,275,427,243,431,211,432,180,424,148,404,116,386,100,384,95,408,112,429,146,437,179,437,212,432,244,428,275,428,307,436,338,456,371,470,384"/>
+<area shape="rect" id="Node000006" href="$classTSN_1_1CJsonBuilder.html#a8c2c6292e029a6328de8193eb6e252b4" title="Igual que el anterior desde un string (se escribe como UTF&#45;8)." alt="" coords="240,126,385,171"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="465,385,452,374,435,350,427,325,427,278,427,231,420,208,404,185,386,170,384,165,408,181,425,206,432,231,432,278,433,325,440,347,456,371,470,383"/>
+<area shape="rect" id="Node000007" href="$classTSN_1_1CJsonBuilder.html#a60b0f15cbf047730b22550174cd7a127" title="Inserta un fragmento de json YA VALIDO (objeto, array o valor) como valor, con su coma...." alt="" coords="240,196,385,240"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="465,384,452,374,439,359,432,343,427,313,422,283,416,269,404,254,386,240,384,235,408,251,420,266,428,282,432,312,437,342,444,356,456,371,470,382"/>
+<area shape="rect" id="Node000008" href="$classTSN_1_1CJsonBuilder.html#a04022d25648d134a9d7b03ab08636dc4" title="Igual que ValidJson(string) pero recibe el string por valor." alt="" coords="240,265,385,310"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="464,381,452,375,437,362,428,349,419,336,404,324,386,313,384,308,408,320,423,333,432,346,441,358,456,370,469,379"/>
+<area shape="rect" id="Node000009" href="$classTSN_1_1CJsonBuilder.html#ac1124a1f6147a20c71994e1e2aa837f7" title="String CON escape (&quot;valor&quot;)." alt="" coords="226,333,399,361"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="464,387,372,364,370,359,468,384"/>
+<area shape="rect" id="Node000010" href="$classTSN_1_1CJsonBuilder.html#a80c622b08bc57a9a165189e2b040230e" title="Igual que ValS pero recibe el string por valor." alt="" coords="240,385,385,430"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="464,409,387,409,384,405,468,405"/>
+<area shape="rect" id="Node000011" href="$classTSN_1_1CJsonBuilder.html#ad66a91c2e7a4ff80634a9d9137548d41" title="Igual que ValSWV pero recibe el string por valor." alt="" coords="240,454,385,499"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="464,434,387,458,384,454,468,430"/>
+<area shape="rect" id="Node000012" href="$classTSN_1_1CJsonBuilder.html#a51b6a65e98796a05e4e4d5ce52358e15" title="String SIN escape (&quot;valor&quot;): se escribe como UTF&#45;8 tal cual, asi que acepta no ASCII pero NO comillas..." alt="" coords="240,524,385,568"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="512,441,465,478,407,514,383,525,379,521,405,509,462,474,515,437"/>
+<area shape="rect" id="Node000013" href="$classTSN_1_1CJsonBuilder.html#aadbb91593927650d5e803d5cfb88c712" title="String CON escape desde bytes." alt="" coords="225,592,400,620"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="530,445,482,515,447,552,407,583,386,593,382,590,405,578,444,548,478,512,533,441"/>
+<area shape="rect" id="Node000014" href="$classTSN_1_1CJsonBuilder.html#a72878e9c3aa5a21476b1b4ba624bba05" title="Bytes SIN escape entre comillas: se copian tal cual." alt="" coords="240,644,385,688"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="536,446,519,488,490,538,452,589,408,633,387,646,383,643,404,629,448,585,485,535,514,485,538,441"/>
+<area shape="rect" id="Node000015" href="$classTSN_1_1CJsonBuilder.html#a8fc0f7ddaf7eadf2f637c95875769e7c" title="Escribe el valor de un nodo de json (CJsonNode) como valor del builder." alt="" coords="5,951,171,978"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="225,696,220,702,193,732,169,765,132,837,108,904,95,951,90,950,103,902,127,835,164,763,189,729,217,699,228,692"/>
+<area shape="poly" id="edge15_Node000015_Node000015" title=" " alt="" coords="125,937,113,932,88,929,65,931,52,936,49,941,54,949,49,951,43,942,48,932,63,926,88,924,114,927,130,934"/>
+<area shape="rect" id="Node000017" href="$classTSN_1_1CJsonBuilderStr.html#ab2250cf67892c11caa2a5a70be0a1814" title="Clave de objeto CON escape (comillas escapadas): ver CJsonBuilder::Key." alt="" coords="219,712,406,740"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="529,889,478,820,444,784,405,753,385,743,383,738,407,749,447,780,482,817,534,888"/>
+<area shape="rect" id="Node000018" href="$classTSN_1_1CJsonBuilderStr.html#abb38e67ad33281c96898320c3ddfe228" title="Clave SIN validacion (solo ASCII sin comillas, barras ni control): ver CJsonBuilder::KeyWV." alt="" coords="235,764,390,808"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="511,893,462,858,405,823,382,811,380,806,407,818,465,854,516,892"/>
+<area shape="rect" id="Node000019" href="$classTSN_1_1CJsonBuilderStr.html#ac480220bce3495b904f22b4450dd34a2" title="String CON escape (comillas escapadas y barras duplicadas)." alt="" coords="235,833,390,878"/>
+<area shape="poly" id="edge19_Node000016_Node000019" title=" " alt="" coords="459,899,391,880,389,875,464,897"/>
+<area shape="rect" id="Node000020" href="$classTSN_1_1CJsonBuilderStr.html#abdf50ba66cc418f9ae7645a884f50f37" title="Igual que ValS pero recibe el string por valor." alt="" coords="235,902,390,947"/>
+<area shape="poly" id="edge20_Node000016_Node000020" title=" " alt="" coords="458,926,392,927,389,922,463,923"/>
+<area shape="rect" id="Node000021" href="$classTSN_1_1CJsonBuilderStr.html#a422877e64d3c0252f369dd2b48991f95" title="Igual que ValSWV pero recibe el string por valor." alt="" coords="235,972,390,1016"/>
+<area shape="poly" id="edge21_Node000016_Node000021" title=" " alt="" coords="459,953,392,974,389,969,463,949"/>
+<area shape="rect" id="Node000022" href="$classTSN_1_1CJsonBuilderStr.html#ac54fe2601592556118025844346e85f4" title="String SIN escape (solo las comillas que lo envuelven van escapadas): ver CJsonBuilder::ValSWV." alt="" coords="235,1041,390,1086"/>
+<area shape="poly" id="edge22_Node000016_Node000022" title=" " alt="" coords="461,955,456,961,440,978,432,995,424,1013,408,1031,389,1042,386,1038,404,1026,420,1010,427,993,436,975,452,957,464,951"/>
+<area shape="rect" id="Node000023" href="$classTSN_1_1CJsonBuilderStr.html#ade8fd2ec2f21d97c9c3dd6ba36da7065" title="String CON escape desde bytes (ver CJsonBuilder::ValU, mismas reglas)." alt="" coords="235,1110,390,1155"/>
+<area shape="poly" id="edge23_Node000016_Node000023" title=" " alt="" coords="461,954,456,961,443,978,436,994,432,1029,429,1064,422,1082,408,1100,393,1112,389,1108,404,1096,417,1079,424,1062,427,1028,431,993,438,975,452,957,464,949"/>
+<area shape="rect" id="Node000024" href="$classTSN_1_1CJsonBuilderStr.html#ad975815e25acec4c9f8197c97fbd3bc9" title="Bytes SIN escape entre comillas escapadas. A diferencia de CJsonBuilder::ValUWV no tiene count: escri..." alt="" coords="235,1180,390,1224"/>
+<area shape="poly" id="edge24_Node000016_Node000024" title=" " alt="" coords="461,953,456,961,439,987,431,1012,430,1037,432,1063,435,1089,434,1115,426,1142,408,1169,392,1182,388,1179,404,1165,421,1140,428,1114,429,1089,427,1063,425,1037,426,1011,434,984,452,957,465,949"/>
+<area shape="poly" id="edge28_Node000027_Node000015" title=" " alt="" coords="458,1165,456,1169,441,1187,434,1205,425,1223,407,1239,356,1262,311,1270,289,1269,266,1263,217,1239,184,1212,157,1179,136,1142,119,1103,97,1031,91,981,91,976,103,1030,124,1102,140,1140,162,1176,188,1208,220,1234,268,1258,290,1264,311,1265,355,1257,405,1234,421,1220,429,1203,436,1184,452,1165,462,1161"/>
+</map>

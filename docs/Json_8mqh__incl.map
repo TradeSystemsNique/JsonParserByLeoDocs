@@ -1,0 +1,19 @@
+<map id="Src/Json.mqh" name="Src/Json.mqh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="835,5,940,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,213,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="835,28,229,83,228,78,834,22"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="237,81,421,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="837,28,437,82,436,77,832,27"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="446,81,658,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="837,32,627,80,626,75,832,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="682,81,872,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="870,33,810,75,808,70,865,34"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="896,81,1103,109"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="908,31,970,73,965,72,907,36"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1127,81,1352,109"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="941,29,1165,77,1159,77,940,34"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1376,81,1580,109"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="941,24,1363,79,1358,79,940,30"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1605,81,1794,109"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="941,22,1215,44,1593,81,1587,81,1214,49,941,27"/>
+</map>

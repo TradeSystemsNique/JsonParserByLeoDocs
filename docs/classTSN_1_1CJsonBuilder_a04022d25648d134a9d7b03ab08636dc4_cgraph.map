@@ -1,0 +1,9 @@
+<map id="TSN::CJsonBuilder::ValidJsonNoRef" name="TSN::CJsonBuilder::ValidJsonNoRef">
+<area shape="rect" id="Node000001" title="Igual que ValidJson(string) pero recibe el string por valor." alt="" coords="5,40,151,85"/>
+<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonBuilder.html#af5ec643b3f79ca8ab604202cac235f2f" title=" " alt="" coords="211,5,356,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,48,198,42,193,43,151,53"/>
+<area shape="rect" id="Node000004" href="$classTSN_1_1CJsonBuilderBase.html#a0263a3995dada333c146de78960647b9" title="Escribe el string como bytes UTF&#45;8, SIN escapar y sin comas (es responsabilidad de quien llama que se..." alt="" coords="199,75,368,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,72,186,80,181,80,151,77"/>
+<area shape="rect" id="Node000003" href="$classTSN_1_1CJsonBuilderBase.html#a82118bc56a61eff652a8ae6a51127afc" title=" " alt="" coords="416,5,585,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,25,403,27,398,28,356,30"/>
+</map>
