@@ -1,7 +1,0 @@
-<map id="Src/JsonBuilder/BuilderDefs.mqh" name="Src/JsonBuilder/BuilderDefs.mqh">
-<area shape="rect" id="Node000001" title="Base de los builders de json (CJsonBuilderBase): buffer de bytes, pila de comas, valores simples y sn..." alt="" coords="133,5,364,33"/>
-<area shape="rect" id="Node000002" href="$JsonBuilder_8mqh.html" title="CJsonBuilder: construye json normal (strings entre comillas, escapados) sobre CJsonBuilderBase." alt="" coords="5,81,233,109"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,41,143,83,141,78,209,41"/>
-<area shape="rect" id="Node000003" href="$JsonStrBuilder_8mqh.html" title="CJsonBuilderStr: construye un json que va DENTRO de un string json (comillas y barras escapadas)." alt="" coords="256,81,502,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,38,359,81,353,81,284,44"/>
-</map>

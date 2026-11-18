@@ -1,5 +1,0 @@
-<map id="TSN::CJsonParser::GetRoot" name="TSN::CJsonParser::GetRoot">
-<area shape="rect" id="Node000001" title="Devuelve el root (raiz) del documento json parseado." alt="" coords="5,5,198,33"/>
-<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonParser.html#ad0fde2a72a20049ce29366c276d6875e" title="Slots de la cinta que ocupa el nodo en idx INCLUYENDO todos sus hijos (ARR y OBJ: el step guardado en..." alt="" coords="246,5,437,33"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,17,232,19,227,19,198,22"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="JsonBuilderSnapshot" name="JsonBuilderSnapshot">
-<area shape="rect" id="Node000001" title="&quot;Foto&quot; liviana del estado de un builder: posicion de escritura, nivel y si va el primer elemento del ..." alt="" coords="26,5,180,33"/>
-<area shape="rect" id="Node000002" href="$structTSN_1_1JsonBuilderFSnapshot.html" title="Foto &quot;completa&quot;: ademas del estado, se queda con el buffer del builder (ver CJsonBuilderBase::GetSnap..." alt="" coords="5,81,201,109"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,47,105,82,101,80,101,51"/>
-</map>

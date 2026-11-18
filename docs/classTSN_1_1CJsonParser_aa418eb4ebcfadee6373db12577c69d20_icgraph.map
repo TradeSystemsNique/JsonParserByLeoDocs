@@ -1,9 +1,0 @@
-<map id="TSN::CJsonParser::GetStepPure" name="TSN::CJsonParser::GetStepPure">
-<area shape="rect" id="Node000001" title="Slots de la cinta que ocupa el nodo en idx SIN contar sus hijos: ARR y OBJ devuelven 2 (su header)." alt="" coords="257,83,477,111"/>
-<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonParser.html#aed2a36ffe2748381cb0e27a8539c0453" title=" " alt="" coords="15,5,199,50"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,80,193,53,194,48,300,78"/>
-<area shape="rect" id="Node000003" href="$classTSN_1_1CJsonParser.html#afd1c1448d5dac3e6679ec3a4a6276df3" title="Imprime info de la cinta con formatoir [type] value." alt="" coords="5,75,209,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,98,210,100,209,94,244,96"/>
-<area shape="rect" id="Node000004" href="$classTSN_1_1CJsonParser.html#a1bd24947c9f3329ab119b7ccf864482d" title="Vuelca un objeto o array de la cinta a un DOM mutable (lo llama CNodeSFLBase::ToDom / CJsonNode::ToDo..." alt="" coords="9,144,205,189"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,115,194,146,193,141,295,116"/>
-</map>

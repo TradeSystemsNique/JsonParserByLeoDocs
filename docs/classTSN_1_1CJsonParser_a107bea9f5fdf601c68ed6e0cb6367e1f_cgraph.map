@@ -1,7 +1,0 @@
-<map id="TSN::CJsonParser::AutoParseByFileExt" name="TSN::CJsonParser::AutoParseByFileExt">
-<area shape="rect" id="Node000001" title="AutoParseo en base a una extension de archivo valida (TSN_SLF_EXT_TYPE_FILE o TSN_SLF_EXT_TYPE_CACHE_..." alt="" coords="5,36,210,81"/>
-<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonParser.html#aa5109813feded32404ad5c5243f9831c" title="Corrige el padding de raw agregandole mas bytes y centinelas al final." alt="" coords="258,5,444,50"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,43,245,41,240,42,211,48"/>
-<area shape="rect" id="Node000003" href="$classTSN_1_1CJsonParser.html#aecd22e47b869a9b4b206d94ca44a39e0" title="Funcion principal de parse, no recibe ningun parametro." alt="" coords="264,74,438,102"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,68,251,75,245,75,210,73"/>
-</map>

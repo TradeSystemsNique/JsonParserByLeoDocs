@@ -1,8 +1,0 @@
-<map id="TSN::CJsonNode::ToDouble" name="TSN::CJsonNode::ToDouble">
-<area shape="rect" id="Node000001" title="Convierte el nodo a double." alt="" coords="266,44,459,72"/>
-<area shape="rect" id="Node000002" href="$structTSN_1_1CJsonNode.html#a63b7f31a249e64860edb0189351facdc" title="Convierte el nodo al tipo MqlParam de MQL5." alt="" coords="5,5,218,33"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,41,206,36,206,31,256,41"/>
-<area shape="rect" id="Node000003" href="$classTSN_1_1CJsonBuilder.html#a8fc0f7ddaf7eadf2f637c95875769e7c" title="Escribe el valor de un nodo de json (CJsonNode) como valor del builder." alt="" coords="29,81,194,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,74,195,85,194,80,248,75"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="153,66,140,62,111,60,85,62,71,67,67,72,74,81,68,81,62,72,67,63,84,57,112,55,141,57,158,66"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="TSN::CJsonParser::ErrorInfo" name="TSN::CJsonParser::ErrorInfo">
-<area shape="rect" id="Node000001" title="Imprime el error del ultimo Parse con linea, columna y el fragmento del json (no hace nada si no hubo..." alt="" coords="5,32,201,60"/>
-<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonParser.html#a1ee206a45d96168ffac23bb6f5d70f4d" title="Completa m_last_err con los errores que el camino rapido de Parse no deja escritos." alt="" coords="252,5,446,33"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,33,238,31,233,32,202,38"/>
-<area shape="rect" id="Node000003" href="$classTSN_1_1CJsonParser.html#afbc7c5a1c155715c288a3719dcd9be89" title="Arma (y opcionalmente imprime) el mensaje de un error de json." alt="" coords="249,57,449,85"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,53,236,59,231,59,201,59"/>
-</map>

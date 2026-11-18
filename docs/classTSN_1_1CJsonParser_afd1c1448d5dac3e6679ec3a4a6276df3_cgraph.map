@@ -1,5 +1,0 @@
-<map id="TSN::CJsonParser::PrintCintaTypes" name="TSN::CJsonParser::PrintCintaTypes">
-<area shape="rect" id="Node000001" title="Imprime info de la cinta con formatoir [type] value." alt="" coords="5,5,209,50"/>
-<area shape="rect" id="Node000002" href="$classTSN_1_1CJsonParser.html#aa418eb4ebcfadee6373db12577c69d20" title="Slots de la cinta que ocupa el nodo en idx SIN contar sus hijos: ARR y OBJ devuelven 2 (su header)." alt="" coords="257,14,477,42"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,25,244,27,239,28,209,30"/>
-</map>

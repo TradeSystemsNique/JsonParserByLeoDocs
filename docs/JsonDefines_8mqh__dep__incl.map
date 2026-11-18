@@ -1,5 +1,0 @@
-<map id="Src/JsonCore/JsonDefines.mqh" name="Src/JsonCore/JsonDefines.mqh">
-<area shape="rect" id="Node000001" title="Tipos de nodo, tokens, banderas de estado, errores y tabla de caracteres del parser JSON." alt="" coords="5,5,221,33"/>
-<area shape="rect" id="Node000002" href="$JsonParser_8mqh.html" title=" " alt="" coords="10,81,216,109"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,47,115,82,111,79,111,51"/>
-</map>
